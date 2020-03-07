@@ -1,0 +1,23 @@
+@font-face { font-family: 'Nanum Square'; font-style: normal; font-weight: 400; src: url(./fonts/NanumSquareL.ttf); src: local('Nanum Square'),
+local('NanumSquare'),
+url(./fonts/NanumSquareL.ttf) format('truetype'),
+url(./fonts/NanumSquareL.woff) format('woff'),
+url(./fonts/NanumSquareL.eot) format('embedded-opentype')
+}
+
+@font-face { font-family: 'Nanum Square B'; font-style: normal; font-weight: 600; src: url(./fonts/NanumSquareB.ttf); src: local('Nanum Square B'),
+local('NanumSquareB'),
+url(./fonts/NanumSquareB.ttf) format('truetype'),
+url(./fonts/NanumSquareB.woff) format('woff'),
+url(./fonts/NanumSquareB.eot) format('embedded-opentype')
+}
+
+@font-face { font-family: 'cfnmkB'; font-style: normal; font-weight: 400; src: url(./fonts/cfnmkB.ttf); src: local('cfnmkB'),
+local('cfnmkB'),
+url(./fonts/cfnmkB.ttf) format('truetype'),
+url(./fonts/cfnmkB.otf) format('opentype'); }
+
+body {font:15px/1.5 "Nanum Square"; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility; margin:0; padding:0 }
+ul {list-style: none; margin:0; padding:0;}
+li {margin-bottom:.5rem}
+a {color:black; text-decoration: none;}
