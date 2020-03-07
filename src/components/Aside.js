@@ -2,13 +2,14 @@ import React from 'react';
 import {Academy} from "./Academy";
 import {Education} from "./Education";
 import {SNS} from "./SNS";
+import sori from "./../images/sori.jpg";
 
 export const Aside = (props) => {
     return (
         <aside>
             <section className="title">
                 <div className="picture">
-                    <img src="./images/sori.jpg" alt="" />
+                    <img src={sori} alt="" />
                 </div>
                 <h1 className="name">김소리</h1>
                 <h4 className="role">full-stack designer</h4>
