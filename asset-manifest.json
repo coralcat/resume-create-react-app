@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/resume-create-react-app/static/css/main.861d40d7.chunk.css",
+    "main.js": "/resume-create-react-app/static/js/main.a5bcb025.chunk.js",
+    "main.js.map": "/resume-create-react-app/static/js/main.a5bcb025.chunk.js.map",
+    "runtime-main.js": "/resume-create-react-app/static/js/runtime-main.0c395ca0.js",
+    "runtime-main.js.map": "/resume-create-react-app/static/js/runtime-main.0c395ca0.js.map",
+    "static/js/2.703f81ce.chunk.js": "/resume-create-react-app/static/js/2.703f81ce.chunk.js",
+    "static/js/2.703f81ce.chunk.js.map": "/resume-create-react-app/static/js/2.703f81ce.chunk.js.map",
+    "index.html": "/resume-create-react-app/index.html",
+    "precache-manifest.915da552e4b2d33e6d99f32516751047.js": "/resume-create-react-app/precache-manifest.915da552e4b2d33e6d99f32516751047.js",
+    "service-worker.js": "/resume-create-react-app/service-worker.js",
+    "static/css/main.861d40d7.chunk.css.map": "/resume-create-react-app/static/css/main.861d40d7.chunk.css.map",
+    "static/js/2.703f81ce.chunk.js.LICENSE.txt": "/resume-create-react-app/static/js/2.703f81ce.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/resume-create-react-app/static/media/cfnmkB.61462998.otf",
+    "static/media/App.css": "/resume-create-react-app/static/media/coralcat.625ce691.jpg",
+    "static/media/sori.jpg": "/resume-create-react-app/static/media/sori.b93d18f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c395ca0.js",
+    "static/js/2.703f81ce.chunk.js",
+    "static/css/main.861d40d7.chunk.css",
+    "static/js/main.a5bcb025.chunk.js"
+  ]
+}
